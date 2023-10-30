@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\chris\source\repos\Compulsory3\Compulsory3-Datastruk\Compulsory3-Datastruk\Main.h(26,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Trees.cpp
+  Generating Code...
+  Compulsory3-Datastruk.vcxproj -> C:\Users\chris\source\repos\Compulsory3\Compulsory3-Datastruk\x64\Debug\Compulsory3-Datastruk.exe
